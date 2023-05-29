@@ -1,5 +1,6 @@
 # Tasks_QA
-My LinkIdn: https://www.linkedin.com/in/mykyta-solo/
-
-<h1><br>This repository exists for providing my skills concering QA/QC Engineer.</h1>
+<h2>Hello there!>This repository exists for providing my skills concering QA/QC Engineer.</h2><br> 
+My name is<b><i>Soloshenko Mykyta</i></b>
+<b>LinkIdn:</b> https://www.linkedin.com/in/mykyta-solo/
+<b>Telegram:</b> nickitasol
 
